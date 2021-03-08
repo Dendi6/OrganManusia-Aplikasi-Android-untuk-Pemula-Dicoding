@@ -11,7 +11,7 @@ Aplikasi di banguna dengan memanfaatkan
 
 SplashScreen | Home | Detail | Share | Profil
 --- | --- | --- | --- | --- 
-[!SpalshScreen](https://github.com/Dendi6/OrganManusia-Aplikasi-Android-untuk-Pemula-Dicoding/blob/main/src/splashscreen.jpg) | [!Home](https://github.com/Dendi6/OrganManusia-Aplikasi-Android-untuk-Pemula-Dicoding/blob/main/src/home.jpg) | [!Detail](https://github.com/Dendi6/OrganManusia-Aplikasi-Android-untuk-Pemula-Dicoding/blob/main/src/detail.jpg) | [!Share](https://github.com/Dendi6/OrganManusia-Aplikasi-Android-untuk-Pemula-Dicoding/blob/main/src/sharing.jpg) | [!Profil](https://github.com/Dendi6/OrganManusia-Aplikasi-Android-untuk-Pemula-Dicoding/blob/main/src/profil.jpg)
+![SpalshScreen](https://github.com/Dendi6/OrganManusia-Aplikasi-Android-untuk-Pemula-Dicoding/blob/main/src/splashscreen.jpg) | ![Home](https://github.com/Dendi6/OrganManusia-Aplikasi-Android-untuk-Pemula-Dicoding/blob/main/src/home.jpg) | ![Detail](https://github.com/Dendi6/OrganManusia-Aplikasi-Android-untuk-Pemula-Dicoding/blob/main/src/detail.jpg) | ![Share](https://github.com/Dendi6/OrganManusia-Aplikasi-Android-untuk-Pemula-Dicoding/blob/main/src/sharing.jpg) | ![Profil](https://github.com/Dendi6/OrganManusia-Aplikasi-Android-untuk-Pemula-Dicoding/blob/main/src/profil.jpg)
 
 # Sertifikat
 
