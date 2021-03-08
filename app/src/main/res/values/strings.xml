@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Organ Manusia</string>
+    <string name="organ_name">Nama Organ</string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+    <string name="detail">Type</string>
+    <string name="profile">Profile</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="profil_img">Foto Profil View</string>
+    <string name="name">Dendi</string>
+    <string name="email">mdendi6@gmail.com</string>
+</resources>
